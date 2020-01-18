@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_one"
+        android:enabled="true"
+        android:icon="@drawable/question"
+        android:title="dsafadsf"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_two"
+        android:icon="@drawable/team"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_three"
+        android:enabled="true"
+        android:icon="@drawable/comment"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_four"
+        android:enabled="true"
+        android:icon="@drawable/ic_mypage_line"
+        android:title=""
+        app:showAsAction="ifRoom" />
+</menu>
