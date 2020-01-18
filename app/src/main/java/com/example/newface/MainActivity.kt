@@ -10,6 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.example.newface.databinding.ActivityMainBinding
 import com.example.newface.view.login.LoginActivity
+import com.example.newface.view.main.PostActivity
 import com.example.newface.viewmodel.MainViewModel
 
 class MainActivity : AppCompatActivity() {
@@ -36,7 +37,7 @@ class MainActivity : AppCompatActivity() {
     fun observerViewModel(){
         with(viewModel){
             onSuccessEvent.observe(this@MainActivity, Observer {
-                // 메인 화면 이동
+                startActivity(Intent(this@MainActivity, PostActivity::class.java))
             })
 
             onFailEvent.observe(this@MainActivity, Observer {
