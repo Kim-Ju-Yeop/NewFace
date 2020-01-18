@@ -31,7 +31,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="ICT 융합 엑스포가 오픈합니다."
-                    android:textSize="20sp" />
+                    android:textSize="16sp"
+                    android:textStyle="bold"/>
 
                 <View
                     android:id="@+id/view"
@@ -50,6 +51,7 @@
 
                 <TextView
                     android:id="@+id/content"
+                    android:textSize="12sp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="2019년 10월 30일부터 11월 1일까지 약 2박 3일동안 진행을 합니다. 많은 관심 부탁드립니다. 대구소프트웨어고등학교의 학생들 또한 참가합니다. 다양한 부스와 행사가 존재합니다." />
@@ -80,7 +82,8 @@
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:orientation="horizontal">
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="5dp">
 
                     <ImageView
                         android:id="@+id/imageView4"
@@ -92,8 +95,8 @@
                     <TextView
                         android:id="@+id/name"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
                         android:text="김주엽" />
                 </LinearLayout>
 
@@ -101,7 +104,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="right"
-                    android:orientation="horizontal">
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="5dp">
 
                     <ImageView
                         android:id="@+id/imageView5"

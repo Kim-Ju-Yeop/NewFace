@@ -19,11 +19,11 @@ class QuestionViewModel : ViewModel(){
     val questionList = ArrayList<Question>()
 
     val onSuccessEvent = SingleLiveEvent<Unit>()
+    val onPostEvent = SingleLiveEvent<Unit>()
 
     fun questionList(tokenData : SharedPreferences){
 
         val token = tokenData.getString("token", null)
-
         val res : Call<Response<Data>> = neRetrofit.questionList.getQuestionList(token.toString())
         res.enqueue(object : Callback<Response<Data>> {
             override fun onResponse(call: Call<Response<Data>>, response: retrofit2.Response<Response<Data>>) {

@@ -19,7 +19,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="#F7b319">
 
         <TextView
             android:id="@+id/textView"
@@ -27,7 +28,9 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:text="자유 게시판"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"/>
     </LinearLayout>
 
     <FrameLayout
@@ -38,7 +41,7 @@
             android:id="@+id/recyclerView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#dddddd"
+            android:background="#F3F3F3"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             tools:listitem="@layout/post_item">
 
@@ -53,7 +56,7 @@
             android:layout_marginRight="20dp"
             android:clickable="true"
             android:src="@drawable/ic_create_black_24dp"
-            app:backgroundTint="#261B67" />
+            app:backgroundTint="#F7b319" />
 
     </FrameLayout>
 

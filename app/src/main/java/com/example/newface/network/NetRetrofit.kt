@@ -1,8 +1,6 @@
 package com.project.meals.network
 
-import com.example.newface.network.retrofit.interfaces.Login
-import com.example.newface.network.retrofit.interfaces.QuestionList
-import com.example.newface.network.retrofit.interfaces.Register
+import com.example.newface.network.retrofit.interfaces.*
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
@@ -15,6 +13,8 @@ class NetRetrofit {
     val login : Login = retrofit.create(Login::class.java)
     val register : Register = retrofit.create(Register::class.java)
     val questionList : QuestionList = retrofit.create(QuestionList::class.java)
+    val article : Article = retrofit.create(Article::class.java)
+    val post : Post = retrofit.create(Post::class.java)
 
     companion object {
         val instance = NetRetrofit()
