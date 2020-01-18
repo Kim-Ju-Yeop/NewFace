@@ -20,7 +20,7 @@
         <LinearLayout
             android:id="@+id/layout"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="604dp"
             android:orientation="horizontal" />
 
         <com.google.android.material.bottomnavigation.BottomNavigationView

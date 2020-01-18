@@ -39,7 +39,7 @@ class QuestionFragment : Fragment() {
     fun observerViewModel(){
         with(viewModel){
             onSuccessEvent.observe(this@QuestionFragment, Observer {
-                val adapter = QuestionAdapter(viewModel.questionList)
+                val adapter = QuestionAdapter(viewModel.questionList, binding.root.context)
                 binding.recyclerView.adapter = adapter
             })
         }

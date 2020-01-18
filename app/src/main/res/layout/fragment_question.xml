@@ -35,11 +35,12 @@
         android:layout_height="match_parent">
 
         <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/recyclerView"
-            tools:listitem="@layout/post_item"
-            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager">
+            android:background="#dddddd"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:listitem="@layout/post_item">
 
         </androidx.recyclerview.widget.RecyclerView>
 
@@ -52,7 +53,7 @@
             android:layout_marginRight="20dp"
             android:clickable="true"
             android:src="@drawable/ic_create_black_24dp"
-            app:backgroundTint="#261B67"/>
+            app:backgroundTint="#261B67" />
 
     </FrameLayout>
 
