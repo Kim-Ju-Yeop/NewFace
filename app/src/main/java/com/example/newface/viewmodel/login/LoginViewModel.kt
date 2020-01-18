@@ -3,7 +3,7 @@ package com.example.newface.viewmodel.login
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.newface.model.LoginPostRequest
+import com.example.newface.request.LoginPostRequest
 import com.project.meals.network.Data
 import com.project.meals.network.NetRetrofit
 import com.project.meals.network.response.Response

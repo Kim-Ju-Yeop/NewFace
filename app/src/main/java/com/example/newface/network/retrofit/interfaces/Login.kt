@@ -1,6 +1,6 @@
 package com.example.newface.network.retrofit.interfaces
 
-import com.example.newface.model.LoginPostRequest
+import com.example.newface.request.LoginPostRequest
 import com.project.meals.network.Data
 import com.project.meals.network.response.Response
 import retrofit2.Call
