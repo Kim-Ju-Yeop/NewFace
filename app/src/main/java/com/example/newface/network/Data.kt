@@ -1,9 +1,11 @@
 package com.project.meals.network
 
+import com.example.newface.model.answer.Posts
 import com.google.gson.annotations.SerializedName
 
 class Data {
-//    var schoolList : List<SearchSchool>? = null
+
+    var posts : List<Posts>?= null
 
     @SerializedName("x-access-token")
     lateinit var token : String
