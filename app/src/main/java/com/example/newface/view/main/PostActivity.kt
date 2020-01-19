@@ -3,6 +3,7 @@ package com.example.newface.view.main
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
+import androidx.core.app.ActivityCompat
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProviders
 import com.example.newface.R
@@ -72,5 +73,9 @@ class PostActivity : AppCompatActivity() {
                 }
                 false
             })
+    }
+
+    override fun onBackPressed() {
+        ActivityCompat.finishAffinity(this)
     }
 }

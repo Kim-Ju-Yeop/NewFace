@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.newface.R
@@ -26,6 +27,10 @@ class QuestionAdapter(val questionList : ArrayList<Question>, val context : Cont
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val viewHolder = holder
+
+        val listener = View.OnClickListener {
+            Toast.makeText(context, "hello" + position, Toast.LENGTH_SHORT).show()
+        }
 
         viewHolder.name.text = questionList.get(position).memberId
         viewHolder.title.text = questionList.get(position).title
