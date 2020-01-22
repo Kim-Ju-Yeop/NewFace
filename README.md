@@ -24,16 +24,12 @@
 
 ## UI/UX
 <div>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72904840-e1146e00-3d72-11ea-8fa8-cd52679198dd.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72904834-dfe34100-3d72-11ea-9b33-8e640f2a15f3.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72904837-e07bd780-3d72-11ea-9fb5-53411f944811.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72904836-e07bd780-3d72-11ea-9e79-6ef259baf813.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72904832-dfe34100-3d72-11ea-98af-9eb903887322.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72904833-dfe34100-3d72-11ea-8ad3-4db2c6ab875d.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72905384-d27a8680-3d73-11ea-86fc-0b82fcb153d0.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72905387-d27a8680-3d73-11ea-9633-67d0dc14d09e.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72905394-d4444a00-3d73-11ea-9367-39b280ce7bb8.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72905396-d4dce080-3d73-11ea-8c6a-944067172261.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72905398-d4dce080-3d73-11ea-87c5-3f0c6e6fad75.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72905399-d4dce080-3d73-11ea-974c-e28bae9b8ecf.png"></img>
 </div>
 
-
-## 제 19회 앱잼(AppJam)
-- 1박 2일 동안 진행된 2019 앱잼(AppJam) 행사에서 MomentStory 애플리케이션을 무사히 개발하였습니다.
-- 네이버 블로그 <a href ="http://kjy13299.blog.me/221746628122" target ="_blank" title ="제 19회 앱잼(AppJam) 해커톤">제 19회 앱잼(AppJam) 해커톤 </a>
 
