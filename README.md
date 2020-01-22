@@ -24,12 +24,12 @@
 
 ## UI/UX
 <div>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320935-2e908780-24f6-11ea-846d-e82936a57d26.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320937-394b1c80-24f6-11ea-8ae2-c52bd6f6e955.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320961-6dbed880-24f6-11ea-9933-4bce83daa98d.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320942-4831cf00-24f6-11ea-9066-7b4066d82986.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320987-b1b1dd80-24f6-11ea-9677-db939198c56c.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/71320948-52ec6400-24f6-11ea-8c70-49abae9e05d1.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72904840-e1146e00-3d72-11ea-8fa8-cd52679198dd.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72904834-dfe34100-3d72-11ea-9b33-8e640f2a15f3.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72904837-e07bd780-3d72-11ea-9fb5-53411f944811.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72904836-e07bd780-3d72-11ea-9e79-6ef259baf813.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72904832-dfe34100-3d72-11ea-98af-9eb903887322.png"></img>
+<img width="140" src="https://user-images.githubusercontent.com/49600974/72904833-dfe34100-3d72-11ea-8ad3-4db2c6ab875d.png"></img>
 </div>
 
 
