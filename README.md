@@ -32,4 +32,6 @@
 <img width="140" src="https://user-images.githubusercontent.com/49600974/72905399-d4dce080-3d73-11ea-974c-e28bae9b8ecf.png"></img>
 </div>
 
-
+## 제 6회 하이톤 : 새해
+- 처음으로 하이톤에 참가를 하여 팀원들과 함께 복덩이라는 주제에서 NewFace라는 프로젝트를 수행하였습니다.
+- 네이버 블로그 <a href ="http://kjy13299.blog.me/221746628122" target ="_blank" title ="제 6회 하이톤 : 새해">제 6회 하이톤 : 새해 </a>
