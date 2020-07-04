@@ -19,19 +19,27 @@
 |                      | Android     | Server        | Window | Design  |
 |:--------------------:|:---------------:|:------------------:|:-----:|:----:|
 | Develop People | 김주엽 | 최진우       | 김성헌 | 최종욱|
-| Develop Language | Kotlin, Retrofit2| Node.Js| WPF, C#| |
+| Develop Language | Kotlin| Node.Js| C#| |
 | Develop Tool     | Android Studio  | Visual Studio Code | Visual Studio| Adobe Photoshop, Illustrator|
+
+## Skill
+- <a href="https://github.com/bumptech/glide">Glide</a>
+- <a href="https://github.com/square/retrofit">Retrofit</a>
+- <a href="https://developer.android.com/jetpack/androidx/releases/lifecycle?hl=ko">ViewModel</a>
+- <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a>
+
+## Design Pattern
+- MVVM 디자인 패턴을 활용하여 구현했습니다.
 
 ## UI/UX
 <div>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72905384-d27a8680-3d73-11ea-86fc-0b82fcb153d0.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72905387-d27a8680-3d73-11ea-9633-67d0dc14d09e.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72905394-d4444a00-3d73-11ea-9367-39b280ce7bb8.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72905396-d4dce080-3d73-11ea-8c6a-944067172261.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72905398-d4dce080-3d73-11ea-87c5-3f0c6e6fad75.png"></img>
-<img width="140" src="https://user-images.githubusercontent.com/49600974/72905399-d4dce080-3d73-11ea-974c-e28bae9b8ecf.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/72905384-d27a8680-3d73-11ea-86fc-0b82fcb153d0.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/72905387-d27a8680-3d73-11ea-9633-67d0dc14d09e.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/72905394-d4444a00-3d73-11ea-9367-39b280ce7bb8.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/72905396-d4dce080-3d73-11ea-8c6a-944067172261.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/72905398-d4dce080-3d73-11ea-87c5-3f0c6e6fad75.png"></img>
+<img width="135" src="https://user-images.githubusercontent.com/49600974/72905399-d4dce080-3d73-11ea-974c-e28bae9b8ecf.png"></img>
 </div>
 
-## 제 6회 하이톤 : 새해
-- 처음으로 하이톤에 참가를 하여 팀원들과 함께 복덩이라는 주제에서 NewFace라는 프로젝트를 수행습니다.
-- 네이버 블로그 <a href ="https://kjy13299.blog.me/221783483714" target ="_blank" title ="제 6회 하이톤 : 새해">제 6회 하이톤 : 새해 </a>
+## Blog
+- 네이버 블로그 <a href ="https://kjy13299.blog.me/221783483714" target ="_blank" title ="Cossain 코싸인 설명보기">Cossain 코싸인 설명보기</a>
