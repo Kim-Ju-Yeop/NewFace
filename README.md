@@ -28,6 +28,9 @@
 - <a href="https://developer.android.com/jetpack/androidx/releases/lifecycle?hl=ko">ViewModel</a>
 - <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a>
 
+## Design Pattern
+- MVVM 디자인 패턴을 활용하여 구현했습니다.
+
 ## UI/UX
 <div>
 <img width="135" src="https://user-images.githubusercontent.com/49600974/72905384-d27a8680-3d73-11ea-86fc-0b82fcb153d0.png"></img>
@@ -37,9 +40,6 @@
 <img width="135" src="https://user-images.githubusercontent.com/49600974/72905398-d4dce080-3d73-11ea-87c5-3f0c6e6fad75.png"></img>
 <img width="135" src="https://user-images.githubusercontent.com/49600974/72905399-d4dce080-3d73-11ea-974c-e28bae9b8ecf.png"></img>
 </div>
-
-## Design Pattern
-- MVVM 디자인 패턴을 활용하여 구현했습니다.
 
 ## Blog
 - 네이버 블로그 <a href ="https://kjy13299.blog.me/221783483714" target ="_blank" title ="Cossain 코싸인 설명보기">Cossain 코싸인 설명보기</a>
