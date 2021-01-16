@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/49600974/104805978-5cd6b880-5817-11eb-9edf-90070d37c45d.png"></img>
+
 # NewFace 새로운 만남
 👨‍👨‍👦‍👦 개발자들간의 팀 매칭 및 개발 관련 소식들을 공유할 수 있는 커뮤니케이션 애플리케이션입니다.
 
